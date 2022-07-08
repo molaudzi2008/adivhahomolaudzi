@@ -1,0 +1,32 @@
+
+h1{
+   color: purple;
+   font-size: 3em;
+   color: maroon;
+   color: maroon;
+   font-size: inherit;
+   border: violet dotted;
+   padding: 10px;
+  }
+   body{
+     background-color:pink;
+  }
+   ul{
+     background-color: purple;
+  }
+   ol{
+     background-color:purple;
+  }
+   li:hover{
+     font-size:40px;
+     text-decoration: underline;
+  }
+  img:hover{
+    border:5px violet solid;
+    width:250px
+    height:250px;
+ }
+
+  li{
+    transition:0.3s ease;
+}
